@@ -4,6 +4,7 @@ jim-haslett-csc6220-hw4
 *.zip
 *.csv
 *.tsv
+extra/
 
 # Prerequisites
 *.d
